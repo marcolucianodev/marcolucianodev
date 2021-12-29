@@ -1,6 +1,4 @@
-## Olá! Eu sou o Marco Luciano 👋
-
-- 🔭 Atualmente estudando muito o front-end => HTML | CSS | JavaScript | React JS | Typescript |
+## Olá! Eu sou o Marco Luciano, desenvolvedor web junior. Atualmente estudando o front-end -- HTML | CSS | JavaScript | React JS | Typescript
 
 <div align="center">
   <a href="https://github.com/marcolucianodev">
