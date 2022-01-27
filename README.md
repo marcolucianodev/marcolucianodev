@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marco Luciano, 
 
-- 🖥️ Estudante de front-end em formação
+- 🖥️ Desenvolvedor front-end júnior
 - 🌱 Atualmente estudando React/Typescript
 
 <div align="center">
