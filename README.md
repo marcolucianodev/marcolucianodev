@@ -2,7 +2,7 @@
 
 - 🖥️ Sou desenvolvedor front-end júnior.
 - 💡  Habilidades com HTML | CSS | JavaScript | ReactJS | Styled Components.
-- 🔧 Ferramentas: VS Code | Git | GitHub.
+- 🧰 Ferramentas: VS Code | Git | GitHub.
 
 <div align="center">
   <a href="https://github.com/marcolucianodev">
