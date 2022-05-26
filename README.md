@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marco Luciano, 
 
-- 🖥️ Sou desenvolvedor front-end júnior.
+- 🖥️ Sou desenvolvedor front-end.
 - 💡  Habilidades com HTML | CSS | JavaScript | ReactJS | Styled Components.
 - 🧰 Ferramentas: VS Code | Git | GitHub.
 
