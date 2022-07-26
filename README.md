@@ -1,8 +1,22 @@
-## Olá! Eu sou o Marco Luciano, 
+# Olá! Eu sou o Marco Luciano, 
 
-# 🖥️ Sou desenvolvedor front-end.
-- 💡 Atualmente com foco no desenvolvimento front-end, possuo conhecimentos em HTML, CSS, Javascript, React Js, Context API, Styled-components, Tailwind CSS, Integrações com API, semântica, acessibilidade, versionamento com git.
-- 🧰 Ferramentas: VS Code | GitHub | Linux.
+## 🖥️ Sou desenvolvedor front-end.
+
+- 💡 Desde 2021 venho estudando programação através do curso Desenvolvedor Full Stack pela B7 Web. Hoje sigo meus estudos com foco em front-end.
+
+### 🛠 Habilidades:
+
+✅ React.js
+✅ Context API
+✅ Consumo de APIs REST
+✅ Javascript
+✅ HTML;
+✅ CSS; 
+✅ Semântica e Acessibilidade;
+✅ Styled-Components;
+✅ Tailwind CSS;
+✅ Git/Github
+✅ Testes Unitários com Jest;
 
 <div align="center">
   <a href="https://github.com/marcolucianodev">
