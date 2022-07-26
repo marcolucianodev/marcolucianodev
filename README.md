@@ -2,21 +2,21 @@
 
 ## 🖥️ Sou desenvolvedor front-end.
 
-- 💡 Desde 2021 venho estudando programação através do curso Desenvolvedor Full Stack pela B7 Web. Hoje sigo meus estudos com foco em front-end.
+💡 Desde 2021 venho estudando programação através do curso Desenvolvedor Full Stack pela B7 Web. Hoje sigo meus estudos com foco em front-end.
 
 ### 🛠 Habilidades:
 
-✅ React.js
-✅ Context API
-✅ Consumo de APIs REST
-✅ Javascript
-✅ HTML;
-✅ CSS; 
-✅ Semântica e Acessibilidade;
-✅ Styled-Components;
-✅ Tailwind CSS;
-✅ Git/Github
-✅ Testes Unitários com Jest;
+* React.js;
+* Context API;
+* Consumo de APIs REST;
+* Javascript;
+* HTML;
+* CSS; 
+* Semântica e Acessibilidade;
+* Styled-Components;
+* Tailwind CSS;
+* Git/Github;
+* Testes Unitários com Jest;
 
 <div align="center">
   <a href="https://github.com/marcolucianodev">
