@@ -15,8 +15,8 @@
 * Semântica e Acessibilidade;
 * Styled-Components;
 * Tailwind CSS;
-* Git/Github;
-* Testes Unitários com Jest;
+* Git;
+* Github;
 
 <div align="center">
   <a href="https://github.com/marcolucianodev">
