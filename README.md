@@ -25,9 +25,9 @@ Busco constantemente aprendizado e desafios, e estou sempre empenhado em aprimor
 
 <h2>Habilidades:</h2>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Marco-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marco-React" title="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Marco-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="Marco-Ts" title="TypeScript" height="30" width="30" src="https://marcoluciano.netlify.app/assets/img/Typescript_logo.png">
   <img align="center" alt="Marco-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-Styled" title="Styled Components" height="30" width="auto" src="https://marcoluciano.netlify.app/assets/img/styled-components.png">
