@@ -39,7 +39,7 @@ Busco constantemente aprendizado e desafios, e estou sempre empenhado em aprimor
 <h2>Contatos:</h2>  
 <div>
   <a href="https://www.linkedin.com/in/marcolucianodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/marcoluciano.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://marcoluciano.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-lightgrey?style=for-the-badge" target="_blank"></a>
+  <a href="https://instagram.com/_marcoluciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.marcoluciano.dev/" target="_blank"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-lightgrey?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:maurelio.sluciano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
